@@ -1,5 +1,5 @@
 {
-  "name": "auth0/symfony",
+  "name": "pathe/auth0",
   "description": "Symfony SDK for Auth0 Authentication and Management APIs.",
   "license": "MIT",
   "type": "symfony-bundle",
