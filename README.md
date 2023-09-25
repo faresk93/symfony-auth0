@@ -1,3 +1,4 @@
+test
 ![auth0/symfony](https://cdn.auth0.com/website/sdks/banners/jwt-auth-bundle-banner.png)
 
 Symfony SDK for [Auth0](https://auth0.com) Authentication and Management APIs.
@@ -165,7 +166,7 @@ return [
      * Leave any existing entries in this array as they are.
      * You should just append this line to the end:
      */
-     
+
     Auth0\Symfony\Auth0Bundle::class => ['all' => true],
 ];
 ```
