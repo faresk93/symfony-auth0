@@ -1,4 +1,3 @@
-test
 ![auth0/symfony](https://cdn.auth0.com/website/sdks/banners/jwt-auth-bundle-banner.png)
 
 Symfony SDK for [Auth0](https://auth0.com) Authentication and Management APIs.
